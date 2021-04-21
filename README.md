@@ -2,7 +2,8 @@
 How To Install
 $ pkg install -y git
 
-$ git clone https://github.com/th3unkn0n/osi.ig.git && cd osi.ig
+$ git clone
+
 
 $ python3 -m pip install -r requirements.txt
 
