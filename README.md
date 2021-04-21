@@ -2,7 +2,7 @@
 How To Install
 $ pkg install -y git
 
-$ git clone
+$ git clone https://github.com/yabuna/INSTAGRAM-TOOOL
 
 
 $ python3 -m pip install -r requirements.txt
