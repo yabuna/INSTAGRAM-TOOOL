@@ -54,9 +54,10 @@ def find(stri):
 
 def banner():
 		print(f"""{cy}
- ╔═╗  ╔═╗  ╦     ╦  ╔═╗
- ║ YABUNA     ║  ║ ╦
- ╚═╝  ╚═╝  ╩  {gr}o{cy}  ╩  ╚═╝
+         
+         48.UNA 🦍.
+    
+       {gr}o{cy} 
  
         {gr}Code By :
   {gr} YABUNA 48.UNA{nu}
